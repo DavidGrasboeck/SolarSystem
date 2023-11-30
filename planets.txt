@@ -2,6 +2,16 @@ Mercury
 Venus
 Earth
 Mars
+- Phobos
+- Deimos
 Jupiter
+-m
+-m
+-m
+-m
+-m
+-m
+-m-m
+-m
 Saturn
 Uranus
